@@ -1,0 +1,30 @@
+<ipestyle name="presentation">
+<linewidth name="normal" value="1.2"/>
+<linewidth name="heavier" value="2.4"/>
+<linewidth name="fat" value="3.6"/>
+<linewidth name="ultrafat" value="6"/>
+<marksize name="normal" value="9"/>
+<marksize name="large" value="15"/>
+<marksize name="small" value="6"/>
+<marksize name="tiny" value="3.3"/>
+<arrowsize name="normal" value="21"/>
+<arrowsize name="large" value="30"/>
+<arrowsize name="small" value="15"/>
+<arrowsize name="tiny" value="9"/>
+<textstretch name="normal" value="6 6"/>
+<textstretch name="large" value="6 6"/>
+<textstretch name="Large" value="6 6"/>
+<textstretch name="LARGE" value="6 6"/>
+<textstretch name="huge" value="6 6"/>
+<textstretch name="Huge" value="6 6"/>
+<textstretch name="small" value="6 6"/>
+<textstretch name="footnote" value="6 6"/>
+<textstretch name="tiny" value="6 6"/>
+<preamble>
+\renewcommand\rmdefault{cmss}
+\newenvironment{ITEM}{\begin{itemize}\item}{\end{itemize}}
+</preamble>
+<margins tl="72 72" br="72 72"/>
+<shading type="axial" colora="1 0.9 0.5" colorb="1 0.8 0.75"
+         coords="0 0 0 200" extend="0 1"/>
+</ipestyle>

@@ -1,0 +1,15 @@
+<path fill="white" pen="normal">
+0. 0. m
+1024. 0. l
+1024. 768. l
+0. 768. l
+h
+</path>
+
+<text stroke="blue" matrix="1 0 0 1 672.958 67.0589" pos="289.821 674.245" type="minipage" width="60.3607" valign="top" size="footnote">\begin{center}
+\addtocounter{Page}{1}
+\arabic{Page}
+\end{center}</text>
+<text pos="10 10" stroke="black" size="LARGE">
+Background text
+</text>
